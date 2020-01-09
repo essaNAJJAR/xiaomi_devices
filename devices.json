@@ -210,5 +210,21 @@
  "ysl": [
   "Redmi S2",
   "HMS2"
+ ],
+ "ginkgo": [
+  "Redmi Note 8",
+  "HMNote8"
+ ],
+ "laurus": [
+  "Mi CC 9e",
+  "MICC9e"
+ ],
+ "tucana": [
+  "MI CC 9 Pro",
+  "MICC9Pro"
+ ],
+ "phoenix": [
+  "Redmi K30",
+  "HMK30"
  ]
 }
